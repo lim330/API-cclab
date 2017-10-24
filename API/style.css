@@ -1,0 +1,112 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700);
+
+body {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	font-family: "Lato", sans-serif;
+	font-size: 1em;
+	position: absolute;
+}
+
+h3{
+	color: grey;
+}
+
+
+.bk {
+	width: 700px;
+	height: 394px;
+	margin-top: 10px;
+	color: white;
+	position: relative;
+/* move the right column next to the left*/
+	float: right;
+	margin-right:20%; 
+	/*z-index: -1;*/
+	background-image: url(1.jpg);
+}
+
+.box1 {
+	display: inline-block;
+	font-size: .8em;
+	margin-top: 30px;
+	margin-left: 250px;
+	width: 200px;
+	height: 30px;
+	position: relative;
+	text-align: center;
+	
+}
+.box2 {
+	display: inline-block;
+	font-size: .8em;
+	margin-top: 20px;
+	margin-left: 230px;
+	width:250px;
+	height: 180px;
+	position: relative;
+	text-align: center;
+	
+}
+.box3 {
+	display: inline-block;
+	font-size: .8em;
+	margin-top: 13px;
+	margin-left: 180px;
+	width:120px;
+	height: 20px;
+	position: relative;
+	text-align: center;
+	
+}
+
+.box4 {
+	display: inline-block;
+	font-size: .8em;
+	margin-top: 12px;
+	margin-left: 100px;
+	width:120px;
+	height: 20px;
+	position: relative;
+	text-align: center;
+	
+}
+
+.box5 {
+	display: inline-block;
+	font-size: .8em;
+	margin-top: 13px;
+	margin-left: 180px;
+	width:120px;
+	height: 20px;
+	position: relative;
+	text-align: center;
+	
+}
+
+#name {
+	color: white;
+}
+
+#picture {
+
+}
+
+#input {
+
+}
+
+#aaa {
+
+}
+
+#ajaxButton {
+	z-index: 99999;
+
+}
+
+
+
+
+
